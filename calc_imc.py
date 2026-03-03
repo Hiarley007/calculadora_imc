@@ -1,7 +1,7 @@
 # INPUT - ENTRADA DE DADOS DO USUÁRIO
 # CÁLCULO DE INDÍCE DE MASSA CORPORAL - IMC
 
-# INFORMAÇÕES DO USUÁRIO
+# INFORMAÇÕES DO USUÁRIO (NOME, PESO e ALTURA)
 nome = input("Digite seu nome: ")
 peso = float(input("Digite seu peso em Kg: "))
 altura = float(input("Digite sua altura em M: "))
